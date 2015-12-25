@@ -1,0 +1,11 @@
+int a
+public string getbanary(int a){
+string tmp="";
+while(a=0) {
+	tmp=a/2;
+}
+return tmp;
+}
+
+
+
