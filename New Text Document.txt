@@ -2,9 +2,7 @@ int a
 public string getbanary(int a){
 string tmp="";
 while(a=0) {
-	Scanner sc= new Scanner(System.in);
-        System.out.println("moi nhap a: ");
-	a=sc.nextInt();
+	int a;
 	tmp=a/2;
 }
 return tmp;
