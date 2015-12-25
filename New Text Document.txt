@@ -1,17 +1,11 @@
 int a
 public string getbanary(int a){
 string tmp="";
-<<<<<<< HEAD
 
 while(a!=0) {
 	int a;
 	tmp=a%2;
 	a=a/2;	
-=======
-while(a=0) {
-	int a;
-	tmp=a/2;
->>>>>>> refs/remotes/origin/master
 }
 return tmp;
 }
