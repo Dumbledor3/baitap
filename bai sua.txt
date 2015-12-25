@@ -1,0 +1,7 @@
+public string getbanary(int a){
+string tmp="";
+while(a!=0) {
+	a=?;
+	temp=?
+}
+return tmp;
